@@ -1,10 +1,7 @@
-
 # Attendance and Payroll System using PHP/MySQLi
 
 <div align = "center" > <img src = "aps.png" /></div>
-
 ### Description
-
 This is a simple Attendance and Payroll System using PHP and MySQLi-OOP as DB driver. It has attendance on the client-side and payroll on the admin side. This system is written in pure PHP with no framework so it is understandable to beginners.
 
 ### Features
